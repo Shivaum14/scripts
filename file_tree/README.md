@@ -1,5 +1,6 @@
 outputs a string representing the folder structure of the dirctory path specified 
 example output:
+```
 ├── .git/
 │   └── ...
 ├── .github/
@@ -29,3 +30,4 @@ example output:
 ├── requirements.txt
 ├── setup.py
 └── test.py
+```
